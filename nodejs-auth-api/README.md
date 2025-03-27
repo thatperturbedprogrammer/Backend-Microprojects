@@ -9,26 +9,6 @@ RESTful API with Authentication (Node.js, Express, MongoDB, JWT)
 ✅ Environment variable support (.env)
 ✅ Scalable project structure
 
-📂 Project Structure
-bash
-Copy
-Edit
-restful-api-auth/
-│── node_modules/ # Installed dependencies
-│── config/
-│ ├── db.js # MongoDB connection
-│── middleware/
-│ ├── auth.js # JWT authentication middleware
-│── models/
-│ ├── User.js # User model/schema
-│── routes/
-│ ├── auth.js # Authentication routes
-│ ├── user.js # User routes
-│── .env # Environment variables
-│── .gitignore # Ignore unnecessary files
-│── package.json # Project metadata
-│── server.js # Main entry point
-│── README.md # Project documentation
 🚀 Installation & Setup
 1️⃣ Clone the Repository
 sh
